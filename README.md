@@ -8,16 +8,16 @@
 
 <img
   src="./assets/lumi-portrait.webp"
-  width="300"
+  width="250"
   align="right"
   alt="Lumi — AI-native developer portrait"
 />
 
 <p><strong>AI-NATIVE DEVELOPER &nbsp;·&nbsp; CREATIVE &nbsp;×&nbsp; TECHNOLOGY &nbsp;×&nbsp; PEOPLE</strong></p>
 
-<h1>Lumi <sup>✦</sup></h1>
+<h3>Lumi <sup>✦</sup></h3>
 
-<h2>MAKE SOMETHING<br />MEANINGFUL.</h2>
+<h3>MAKE SOMETHING<br />MEANINGFUL.</h3>
 
 <p>
   Lumi is an independent software brand built by an
