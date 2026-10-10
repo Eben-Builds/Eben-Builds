@@ -18,7 +18,7 @@
       </p>
       <p><strong>Small ideas. Meaningful impact.</strong></p>
       <p>
-        <a href="https://github.com/Eben-Builds?tab=repositories"><strong>Explore the projects ↗</strong></a>
+        <a href="#selected-projects"><strong>Explore the projects ↓</strong></a>
         &nbsp;·&nbsp;
         <a href="#what-we-create"><strong>What we create ↓</strong></a>
       </p>
@@ -61,45 +61,43 @@ Ideas, products, and experiments that make everyday life a little more creative,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/Eben-Builds/ASEL-AX-Runtime">ASEL-AX-Runtime ↗</a></h3>
+      <h3>⚙️ ASEL-AX-Runtime</h3>
       <p>An AI task-execution runtime that checks permissions, runs approved actions, and verifies the actual results.</p>
       <sub>AI AGENTS · EXECUTION · VERIFICATION</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🦺 <a href="https://github.com/Eben-Builds/ai-safety-command-center">AI Safety Command Center ↗</a></h3>
+      <h3>🦺 AI Safety Command Center</h3>
       <p>A vision-AI industrial safety system for detecting potential risks and supporting human-reviewed responses.</p>
       <sub>VISION AI · INDUSTRIAL SAFETY · HUMAN APPROVAL</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗂️ <a href="https://github.com/Eben-Builds/RepHub">RepHub ↗</a></h3>
+      <h3>🗂️ RepHub</h3>
       <p>A permission-controlled space for sharing projects, source-code tours, and demos with invited viewers.</p>
       <sub>SOFTWARE SHOWCASE · ACCESS CONTROL · WEB</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Eben-Builds/AXONE-AI">AXONE-AI ↗</a></h3>
+      <h3>🤖 AXONE-AI</h3>
       <p>Manufacturing work automation with AI planning, policy checks, human approvals, and auditable execution.</p>
       <sub>MANUFACTURING · AI AUTOMATION · RPA</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏭 <a href="https://github.com/Eben-Builds/Nexus">Nexus ↗</a></h3>
+      <h3>🏭 Nexus</h3>
       <p>An interactive 3D factory digital twin for exploring equipment status, simulating incidents, and evaluating actions.</p>
       <sub>DIGITAL TWIN · 3D · SIMULATION</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/Eben-Builds/PhoneDisplay">PhoneDisplay ↗</a></h3>
+      <h3>📱 PhoneDisplay</h3>
       <p>Extend a Windows 11 desktop to an Android phone or tablet using an authenticated display connection.</p>
       <sub>WINDOWS · ANDROID · EXTENDED DISPLAY</sub>
     </td>
   </tr>
 </table>
 
-<sub>🔒 These repositories are currently private. Access to their code requires permission.</sub>
-
-<p align="right"><a href="https://github.com/Eben-Builds?tab=repositories">Explore all repositories →</a></p>
+<p align="right"><em>Curiosity drives what comes next. ✦</em></p>
 ---
 
 <table>
