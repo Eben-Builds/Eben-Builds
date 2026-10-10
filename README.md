@@ -1,33 +1,40 @@
 <!-- Lumi — branded README -->
-<!-- Repository: https://github.com/Eben-Builds/Eben-Builds-ReadMe -->
+<!-- Repository: https://github.com/Eben-Builds/Eben-Builds -->
 
 <p align="center">
   <strong>Lumi ✦</strong>&nbsp;&nbsp;·&nbsp;&nbsp; BUILD &nbsp;·&nbsp; EXPLORE &nbsp;·&nbsp; SHARE &nbsp;·&nbsp; GROW
 </p>
 
-<table>
-  <tr>
-    <td width="59%" valign="middle">
-      <p><strong>CREATIVE &nbsp;×&nbsp; TECHNOLOGY &nbsp;×&nbsp; PEOPLE</strong></p>
-      <h1>Lumi <sup>✦</sup></h1>
-      <h2>MAKE SOMETHING<br />MEANINGFUL.</h2>
-      <p>
-        Lumi is an independent software brand creating useful,
-        thoughtful, and playful tools at the intersection of
-        creativity and technology.
-      </p>
-      <p><strong>Small ideas. Meaningful impact.</strong></p>
-      <p>
-        <a href="#selected-projects"><strong>Explore the projects ↓</strong></a>
-        &nbsp;·&nbsp;
-        <a href="#what-we-create"><strong>What we create ↓</strong></a>
-      </p>
-    </td>
-    <td width="41%" align="center" valign="bottom">
-      <img src="./assets/lumi-portrait.webp" width="300" alt="Portrait of the creator behind Lumi" />
-    </td>
-  </tr>
-</table>
+
+<img
+  src="./assets/lumi-portrait.webp"
+  width="300"
+  align="right"
+  alt="Lumi — AI-native developer portrait"
+/>
+
+<p><strong>AI-NATIVE DEVELOPER &nbsp;·&nbsp; CREATIVE &nbsp;×&nbsp; TECHNOLOGY &nbsp;×&nbsp; PEOPLE</strong></p>
+
+<h1>Lumi <sup>✦</sup></h1>
+
+<h2>MAKE SOMETHING<br />MEANINGFUL.</h2>
+
+<p>
+  Lumi is an independent software brand built by an
+  <strong>AI-native developer</strong>, creating useful,
+  thoughtful, and playful tools at the intersection of
+  creativity and technology.
+</p>
+
+<p><strong>Small ideas. Meaningful impact.</strong></p>
+
+<p>
+  <a href="#selected-projects"><strong>Explore the projects ↓</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#what-we-create"><strong>What we create ↓</strong></a>
+</p>
+
+<br clear="right" />
 
 <p align="center"><em>Ideas → experiments → useful things. ✳</em></p>
 
