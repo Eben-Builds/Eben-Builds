@@ -61,32 +61,45 @@ Ideas, products, and experiments that make everyday life a little more creative,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/Eben-Builds/CodeLens">CodeLens ↗</a></h3>
-      <p>An offline desktop guide for SaaS operations, with ready-to-use templates and practical knowledge.</p>
-      <sub>PRODUCTIVITY · DESKTOP · OFFLINE</sub>
+      <h3>⚙️ <a href="https://github.com/Eben-Builds/ASEL-AX-Runtime">ASEL-AX-Runtime ↗</a></h3>
+      <p>An AI task-execution runtime that checks permissions, runs approved actions, and verifies the actual results.</p>
+      <sub>AI AGENTS · EXECUTION · VERIFICATION</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🗺️ <a href="https://github.com/Eben-Builds/HanNun-Korea">HanNun-Korea ↗</a></h3>
-      <p>A place to explore local events, destinations, and travel information across Korea.</p>
-      <sub>LOCAL DISCOVERY · WEB · DATA</sub>
+      <h3>🦺 <a href="https://github.com/Eben-Builds/ai-safety-command-center">AI Safety Command Center ↗</a></h3>
+      <p>A vision-AI industrial safety system for detecting potential risks and supporting human-reviewed responses.</p>
+      <sub>VISION AI · INDUSTRIAL SAFETY · HUMAN APPROVAL</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📖 <a href="https://github.com/Eben-Builds/Selah">Selah ↗</a></h3>
-      <p>A local-first Bible study app built to explore historical context and understand passages more deeply.</p>
-      <sub>LOCAL-FIRST · READING · STUDY</sub>
+      <h3>🗂️ <a href="https://github.com/Eben-Builds/RepHub">RepHub ↗</a></h3>
+      <p>A permission-controlled space for sharing projects, source-code tours, and demos with invited viewers.</p>
+      <sub>SOFTWARE SHOWCASE · ACCESS CONTROL · WEB</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ <a href="https://github.com/Eben-Builds/TocoAI">TocoAI ↗</a></h3>
-      <p>An experimental voice AI companion with a desktop HUD, guarded actions, and human approval.</p>
-      <sub>AI · INTERACTION · EXPERIMENT</sub>
+      <h3>🤖 <a href="https://github.com/Eben-Builds/AXONE-AI">AXONE-AI ↗</a></h3>
+      <p>Manufacturing work automation with AI planning, policy checks, human approvals, and auditable execution.</p>
+      <sub>MANUFACTURING · AI AUTOMATION · RPA</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏭 <a href="https://github.com/Eben-Builds/Nexus">Nexus ↗</a></h3>
+      <p>An interactive 3D factory digital twin for exploring equipment status, simulating incidents, and evaluating actions.</p>
+      <sub>DIGITAL TWIN · 3D · SIMULATION</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/Eben-Builds/PhoneDisplay">PhoneDisplay ↗</a></h3>
+      <p>Extend a Windows 11 desktop to an Android phone or tablet using an authenticated display connection.</p>
+      <sub>WINDOWS · ANDROID · EXTENDED DISPLAY</sub>
     </td>
   </tr>
 </table>
 
-<p align="right"><a href="https://github.com/Eben-Builds?tab=repositories">Explore all repositories →</a></p>
+<sub>🔒 These repositories are currently private. Access to their code requires permission.</sub>
 
+<p align="right"><a href="https://github.com/Eben-Builds?tab=repositories">Explore all repositories →</a></p>
 ---
 
 <table>
